@@ -1,0 +1,68 @@
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+	background-image: url("erin-biafore-657615-unsplash.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#main {
+	color: white;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+#title {
+ 	text-decoration: underline;
+}
+
+#img-div {
+	font-weight: normal;
+}
+
+#image {
+	max-width: 100%;
+	display: block;
+	margin: auto;
+}
+
+#img-caption {
+	font-size: 15px;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+#tribute-info {
+	font-weight: normal;
+	font-size: 22px;
+	margin: 30px;
+}
+
+#section {
+	font-weight: normal;
+	margin: 100px;
+	font-size: 20px;
+
+}
+
+li{
+	text-align: left;
+}
+
+p {
+	font-weight: normal;
+}
+
+#tribute-link {
+	font-weight: bold;
+}
+
+strong {
+	text-decoration: underline;
+}
+
+a {
+	color: white;
+}
